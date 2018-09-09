@@ -1,0 +1,3 @@
+[submodule "source-code/deep-learning-with-keras-ja"]
+	path = source-code/deep-learning-with-keras-ja
+	url = git@github.com:oreilly-japan/deep-learning-with-keras-ja.git
